@@ -15,7 +15,6 @@ Feel free to check out my  [![Portfolio](https://img.shields.io/badge/Portfolio-
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neerajnakka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajchandran) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/neerajnakka)
 
 
