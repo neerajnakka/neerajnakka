@@ -1,7 +1,16 @@
 # 🤔 Curious About Me?
+
 Hey there! 👋 I'm Neeraj Chandra Nakka, a passionate software developer with a strong interest in Full Stack Web Development.
+
 Here are a few more tidbits:
-💻 I'm always tinkering with code, exploring the latest technologies, and building cool projects.<br>📚 When I'm not coding, you'll probably find me buried in a novel or exploring new music genres.<br>🌱 I have a green thumb and love spending time in my garden, nurturing plants and watching them grow.<br>🎨 I enjoy creating aesthetically pleasing user interfaces and crafting delightful user experiences.<br>🎵 Music is my constant companion. I have an eclectic taste and love discovering new artists and tracks.<br>💬 Ask me about: Anything related to web development, from frontend technologies to backend frameworks.<br>
+
+- 💻 I'm always tinkering with code, exploring the latest technologies, and building cool projects.
+- 📚 When I'm not coding, you'll probably find me buried in a novel or exploring new music genres.
+- 🌱 I have a green thumb and love spending time in my garden, nurturing plants and watching them grow.
+- 🎨 I enjoy creating aesthetically pleasing user interfaces and crafting delightful user experiences.
+- 🎵 Music is my constant companion. I have an eclectic taste and love discovering new artists and tracks.
+- 💬 Ask me about: Anything related to web development, from frontend technologies to backend frameworks.
+
 
 
 ## 🌐 Socials:
