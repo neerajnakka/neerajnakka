@@ -24,7 +24,6 @@ Feel free to check out my  [![Portfolio](https://img.shields.io/badge/Portfolio-
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neerajnakka&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neerajnakka&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajnakka&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
