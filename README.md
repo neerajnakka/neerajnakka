@@ -14,7 +14,6 @@ Here are a few more tidbits:
 Feel free to check out my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://neerajnakka.onrender.com/){:target="_blank"} for more!
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neerajnakka){:target="_blank"} [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajchandran){:target="_blank"} [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/neerajnakka){:target="_blank"}
 
