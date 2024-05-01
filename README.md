@@ -7,7 +7,6 @@ Here are a few more tidbits:
 - 💻 I'm always tinkering with code, exploring the latest technologies, and building cool projects.
 - 📚 When I'm not coding, you'll probably find me buried in a novel or exploring new music genres.
 - 🌱 I have a green thumb and love spending time in my garden, nurturing plants and watching them grow.
-- 🎨 I enjoy creating aesthetically pleasing user interfaces and crafting delightful user experiences.
 - 🎵 Music is my constant companion. I have an eclectic taste and love discovering new artists and tracks.
 - 💬 Ask me about: Anything related to web development, from frontend technologies to backend frameworks.
 
@@ -28,9 +27,6 @@ Feel free to check out my  [![Portfolio](https://img.shields.io/badge/Portfolio-
 ![](https://github-readme-stats.vercel.app/api?username=neerajnakka&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neerajnakka&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajnakka&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neerajnakka&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neerajnakka&icon=2&color=1)](https://visitcount.itsvg.in)
