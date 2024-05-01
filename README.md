@@ -11,7 +11,9 @@ Here are a few more tidbits:
 - 🎵 Music is my constant companion. I have an eclectic taste and love discovering new artists and tracks.
 - 💬 Ask me about: Anything related to web development, from frontend technologies to backend frameworks.
 
-Feel free to check out my [Portfolio](https://neerajnakka.onrender.com/) for more!
+Feel free to check out my
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://neerajnakka.onrender.com/)
+for more!
 
 
 ## 🌐 Socials:
