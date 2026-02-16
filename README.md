@@ -83,10 +83,7 @@ I don't just use deployment tools; I understand the systems running beneath them
   <img src="https://streak-stats.demolab.com/?user=neerajnakka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajnakka&show_icons=true&theme=tokyonight&hide_border=true" alt="Neeraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajnakka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+
 
 ---
 
